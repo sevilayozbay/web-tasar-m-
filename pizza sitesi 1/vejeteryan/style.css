@@ -1,0 +1,31 @@
+
+#pizza
+{
+	background:#FFFFAF;
+	font-size:20px;
+	width:1350px;
+	height:80px;
+	top:0px;
+	position:fixed;
+	margin-bottom: 20px;
+	
+}
+
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: none;}
+a:active {text-decoration: none;}
+
+.ustbaslik {text-align:center; color:#000000}
+
+.divvkapsa { width:1350px; height:auto; margin-top:120px; background-color:#FFFFAF;}
+
+
+.divv2 {width:575px; height:1400px;  background-color:#FFFFE1; float:left; margin-left:30px; }
+.resim {width:575px; height:900px; float:right; background-color:#6600CC; margin-right:30px; }
+
+.resim2 {width:575px; height:400px; float:right; margin-right:30px; margin-top: 100px; margin-bottom:20px;}
+
+
+.yazi {color:#000000; font-family: 'Kalam', cursive; font-size:20px; line-height:1.5; word-spacing: 5px; letter-spacing: 1px}
+.baslik {font-family:"Times New Roman", Times, serif  }

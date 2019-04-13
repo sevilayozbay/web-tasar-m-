@@ -1,0 +1,58 @@
+
+#pizza
+{
+	background:#FFFFAF;
+	font-size:20px;
+	width:1350px;
+	height:80px;
+	top:0px;
+	position:fixed;
+	margin-bottom: 20px; z-index:1;
+	
+}
+
+
+
+.divv { width:300px; height:500px; background-color:#FFFFBF; margin-top:0px; float:left; margin-bottom:40px;  }
+
+.divvkapsa { width:1350px; height:800px; margin-top:120px; }
+.resim {
+	width:800px;
+	height:500px;
+	margin-top:0px;
+	float:left;
+	margin-left:200px;
+	background-color:#000000; margin-bottom: 40px;
+}
+
+
+
+.metinkapsa { width:1200px; height:250px; background-color:#FFFFBF; margin-left:auto; margin-right:auto; clear:both;} 
+
+.metin { width:1100px; height:200px; background-color:#FFFFBF; margin-left:auto; margin-right:auto; clear:both;}
+.yazi {color:#000000; font-family: 'Kalam', cursive; font-size:20px; line-height:1.5; word-spacing: 5px; letter-spacing: 1px}
+
+
+
+.acilirmenu{
+    width:300px; height:auto; margin-top:100px; margin-left:auto; float:left; margin-left:45px;
+}
+.acilirmenu ul{
+    width:201px; margin:0; padding:0; list-style-type:none;  
+}
+.acilirmenu li{
+    position: relative; 
+}
+.acilirmenu li ul{
+    position:absolute; list-style-type:none; left:179px; width:200px; display:none; top:0;    
+}
+.acilirmenu li a{
+    height:30px; display: block; text-decoration: none; background-color:#FFFFBF; color:#000000; font-family: 'Kalam', cursive; font-size:20px; 
+	padding:5px; border:1px solid #FF6 ; border-right:none; border-left:none; text-align: center; line-height: 30px;
+}
+.acilirmenu li a:hover{
+    background-color:#FF6;
+}
+.acilirmenu li:hover ul{
+    display:block;
+}
